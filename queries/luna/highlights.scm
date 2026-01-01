@@ -5,6 +5,7 @@
 "return" @keyword
 "while" @keyword
 "if" @keyword
+"else" @keyword
 "union" @keyword
 "enum" @keyword
 "let" @keyword
